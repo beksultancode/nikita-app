@@ -43,3 +43,7 @@
             <artifactId>httpclient</artifactId>
         </dependency>
 ```
+
+> to work with this application
+> you need to register to http://nikita.kg 
+> and add login & password & sender name to application.yml

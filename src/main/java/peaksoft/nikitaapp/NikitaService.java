@@ -30,7 +30,7 @@ public class NikitaService {
                 nikitaConfig.getPassword(),
                 LocalDateTime.now().getNano() + "",
                 nikitaConfig.getSender(),
-                nikitaRequest.getPhoneNumber(),
+                nikitaRequest.getMessage(),
                 nikitaRequest.getPhoneNumber()
         );
 

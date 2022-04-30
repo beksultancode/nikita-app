@@ -36,3 +36,10 @@
             <version>1.4.19</version>
         </dependency>
 ```
+### and we used httpclient from apache
+```
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+        </dependency>
+```
